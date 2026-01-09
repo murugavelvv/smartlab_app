@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "Smart Lab Analyzer",
+    "slug": "smart-lab-analyzer-offline-edition",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "backgroundColor": "#ffffff",
+      "resizeMode": "contain"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "app.rork.smart-lab-analyzer-offline-edition"
+    },
+    "android": {
+      "package": "app.rork.smart-lab-analyzer-offline-edition",
+      "adaptiveIcon": {
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}
