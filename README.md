@@ -1,52 +1,66 @@
-📚 SmartLab
+# 📚 SmartLab
 
-A simple student and lab management application built using Flutter and Dart.
+A **mobile application for student and lab management** built using **Flutter (Dart)** with **TypeScript-based services**.
 
-SmartLab helps teachers manage students, lab sessions, attendance, marks, and student performance in one place.
+SmartLab helps teachers manage students, attendance, lab sessions, marks, and performance in one application.
 
-🎯 Project Overview
+## 🎯 Project Overview
 
-The application provides a digital platform for teachers to manage academic and lab activities.
+SmartLab provides a digital platform for managing academic and lab activities.
 
 Teachers can:
 
-Manage student records
-Mark attendance
-Record lab marks and notes
-Track student performance
-View student progress
-Generate and export reports
+* Manage student records
+* Manage lab sessions
+* Mark attendance
+* Record marks and evaluations
+* Track student performance
+* View student profiles
+* Export data and reports
 
-The system reduces manual work, saves time, and helps improve performance tracking.
+It reduces manual work and makes student and lab management easier.
 
-✨ Features
-👨‍🎓 Student Management
-📅 Attendance Management
-🧪 Lab Session Management
-📝 Marks & Evaluation
-📊 Performance Tracking
-👨‍🏫 Staff Management
-👤 Student Profiles
-📤 Export Data
-📈 Dashboard & Reports
-🛠️ Technologies Used
-Frontend: Flutter (Dart)
-Backend: Node.js + Express.js
-Database: Firebase
-Development: VS Code
-Testing: Android Studio
-🔄 Application Flow
+## ✨ Features
 
-Teacher Login → Select Batch & Subject → Mark Attendance → Enter Marks → Track Performance → Generate Reports
+* 👨‍🎓 Student Management
+* 📅 Attendance Management
+* 🧪 Lab Session Management
+* 📝 Marks & Evaluation
+* 📊 Performance Tracking
+* 👨‍🏫 Staff Management
+* 👤 Student Profiles
+* 📤 Data Export
+* 📈 Dashboard & Reports
 
-🌍 Real-World Use
+## 🛠️ Tech Stack
 
-A teacher can open the app, select a batch and subject, mark attendance, enter lab marks and notes, and view student progress. All information is stored digitally in one place.
+### 📱 Frontend
 
-🚀 Benefits
-Reduces manual work
-Saves teacher's time
-Reduces data entry errors
-Centralizes student records
-Makes performance tracking easier
-Provides quick access to reports
+* **Flutter**
+* **Dart**
+
+Flutter is used to build the mobile application and user interface.
+
+### ⚙️ Backend
+
+* **Node.js**
+* **Express.js**
+* **TypeScript**
+
+Node.js and Express.js are used for backend services and API development, with TypeScript for supporting services and tools.
+
+### 🗄️ Database
+
+* **Firebase**
+
+Firebase is used for storing and managing application data.
+
+### 🔧 Development Tools
+
+* **VS Code** – Development
+* **Android Studio** – Testing
+* **Expo CLI** – Deployment
+
+## 🔄 Application Flow
+
+**Teacher Login → Select Batch & Subject → Manage Students → Mark Attendance → Enter Marks → Track Performance → Generate Reports**
